@@ -1,0 +1,16 @@
+2023-06-26 17:50:28 - Function: rate_hw - Arguments: args=(<__main__.Reviewer object at 0x0000021B8605FD90>, <__main__.Student object at 0x0000021B8605FB10>, 'Python', 10), kwargs={} - Result: None
+2023-06-26 17:50:28 - Function: rate_hw - Arguments: args=(<__main__.Reviewer object at 0x0000021B8605FD90>, <__main__.Student object at 0x0000021B8605FB10>, 'Python', 8), kwargs={} - Result: None
+2023-06-26 17:50:28 - Function: rate_hw - Arguments: args=(<__main__.Reviewer object at 0x0000021B8605FD90>, <__main__.Student object at 0x0000021B8605FB10>, 'Python', 5), kwargs={} - Result: None
+2023-06-26 17:50:28 - Function: rate_hw - Arguments: args=(<__main__.Reviewer object at 0x0000021B8605FE50>, <__main__.Student object at 0x0000021B8605FBD0>, 'Python', 10), kwargs={} - Result: None
+2023-06-26 17:50:28 - Function: rate_hw - Arguments: args=(<__main__.Reviewer object at 0x0000021B8605FE50>, <__main__.Student object at 0x0000021B8605FBD0>, 'Python', 9), kwargs={} - Result: None
+2023-06-26 17:50:28 - Function: rate_hw - Arguments: args=(<__main__.Reviewer object at 0x0000021B8605FE50>, <__main__.Student object at 0x0000021B8605FBD0>, 'Python', 6), kwargs={} - Result: None
+2023-06-26 17:50:28 - Function: rate_lecture - Arguments: args=(<__main__.Student object at 0x0000021B8605FB10>, <__main__.Lecturer object at 0x0000021B8605FCD0>, 'Python', 10), kwargs={} - Result: None
+2023-06-26 17:50:28 - Function: rate_lecture - Arguments: args=(<__main__.Student object at 0x0000021B8605FB10>, <__main__.Lecturer object at 0x0000021B8605FCD0>, 'Python', 8), kwargs={} - Result: None
+2023-06-26 17:50:28 - Function: rate_lecture - Arguments: args=(<__main__.Student object at 0x0000021B8605FB10>, <__main__.Lecturer object at 0x0000021B8605FCD0>, 'Python', 6), kwargs={} - Result: None
+2023-06-26 17:50:28 - Function: rate_lecture - Arguments: args=(<__main__.Student object at 0x0000021B8605FBD0>, <__main__.Lecturer object at 0x0000021B8605FD10>, 'Python', 9), kwargs={} - Result: None
+2023-06-26 17:50:28 - Function: rate_lecture - Arguments: args=(<__main__.Student object at 0x0000021B8605FBD0>, <__main__.Lecturer object at 0x0000021B8605FD10>, 'Python', 6), kwargs={} - Result: None
+2023-06-26 17:50:28 - Function: rate_lecture - Arguments: args=(<__main__.Student object at 0x0000021B8605FBD0>, <__main__.Lecturer object at 0x0000021B8605FD10>, 'Python', 4), kwargs={} - Result: None
+2023-06-26 17:50:28 - Function: av_rating - Arguments: args=(<__main__.Student object at 0x0000021B8605FB10>,), kwargs={} - Result: 7.67
+2023-06-26 17:50:28 - Function: av_rating - Arguments: args=(<__main__.Student object at 0x0000021B8605FBD0>,), kwargs={} - Result: 8.33
+2023-06-26 17:50:28 - Function: av_rating - Arguments: args=(<__main__.Lecturer object at 0x0000021B8605FCD0>,), kwargs={} - Result: 8.0
+2023-06-26 17:50:28 - Function: av_rating - Arguments: args=(<__main__.Lecturer object at 0x0000021B8605FD10>,), kwargs={} - Result: 6.33
